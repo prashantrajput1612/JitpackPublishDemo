@@ -49,7 +49,7 @@ afterEvaluate{
 
                 groupId = 'com.github.prashantrajput1612'
                 artifactId = 'JitpackPublishDemo'
-                version = '1.0'
+                version = '2.0'
             }
         }
     }
