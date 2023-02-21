@@ -47,7 +47,7 @@ afterEvaluate{
             release(MavenPublication){
                 from components.release
 
-                groupId = 'com.jitpackpublishdemo'
+                groupId = 'com.github.prashantrajput1612'
                 artifactId = 'JitpackPublishDemo'
                 version = '1.0'
             }
